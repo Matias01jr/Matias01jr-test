@@ -1,4 +1,0 @@
-# CreaVistaWebSO
-Sistema Operativo para Android 4.2-8.1 basado en WebView
-
-(No hay mucha informacion de este proyecto ya que no esta muy definido, Es un "Sistema Operativo" que sus apps estarian escritas en html, js y css, en js tendria una api extra para permisos e interactuar{Parecido a CreadorCraft API pero más avanzado} Seria como un launcher con las apps android más las apps de CreaVistaWebSO, tambien tendria la edicion para celular, Tablet{con escritorio y más parecido a Android 16} y TV, Tambien si el dispositivo cuenta con Root podria recomendar instalar en el sistema y tambien tendria una pantalla de inicio de asistente de configuracion con recomendaciones de apps como CreaProDroid y más.)
